@@ -1,11 +1,11 @@
 # Nostr VIP
 
-You can get a free NIP-05 verified mark by filling 'nip-05 verification' with `{your-public-key}@nost.vip` now!
+You can get a free NIP-05 verified mark by filling 'nip-05 verification' with `npub1pf9ux0dmfd3esz6cddkhuah562x04u4hcwvznhed57y65tt3a7eqx9mp64@nost.vip` now! for free lolz! over `git://` !!
 
 Follow me: 
 
 ```
-npub1p0ew5ln6hq4c20l7zftkwyrnn03php05zl8aydntugg74cu8m28sfk25c6
+https://nostr.band/npub1pf9ux0dmfd3esz6cddkhuah562x04u4hcwvznhed57y65tt3a7eqx9mp64
 ```
 
 ## Sponsor
